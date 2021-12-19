@@ -1,0 +1,22 @@
+name;type;opening;movements;movements_sbahn;platforms;travellers;accessible
+Berlin Gesundbrunnen;Kreuzungsbahnhof;1872;120;1000;10;230000;TRUE
+Berlin Hauptbahnhof;Kreuzungsbahnhof;2006;587;600;14;329000;TRUE
+Berlin Ostbahnhof;Durchgangsbahnhof;1842;335;891;9;100000;TRUE
+Berlin Südkreuz;Kreuzungsbahnhof;2006;201;1115;10;179000;TRUE
+Dortmund Hauptbahnhof;Kreuzungsbahnhof;1847;680;302;16;130000;FALSE
+Dresden Hauptbahnhof;Trennungsbahnhof,Kopfbahnhof;1898;322;215;16;60000;TRUE
+Düsseldorf Hauptbahnhof;Kreuzungsbahnhof;1891;630;500;16;246000;TRUE
+Duisburg Hauptbahnhof;Kreuzungsbahnhof;1846;700;;12;130000;TRUE
+Essen Hauptbahnhof;Trennungsbahnhof;1862;321;403;13;152000;TRUE
+Frankfurt (Main) Hauptbahnhof;Kopfbahnhof;1888;632;1100;29;493000;TRUE
+Hamburg-Altona;Kopfbahnhof;1844;;;12;138000;TRUE
+Hamburg Hauptbahnhof;Trennungsbahnhof;1906;800;1200;12;537000;TRUE
+Hannover Hauptbahnhof;Kreuzungsbahnhof;1843;418;204;12;261000;TRUE
+Karlsruhe Hauptbahnhof;Kreuzungsbahnhof;1913;263;121;16;60000;TRUE
+Köln Hauptbahnhof;Trennungsbahnhof;1859;764;466;11;318000;TRUE
+Köln Messe/Deutz;Kreuzungsbahnhof;1844;;;10;70000;FALSE
+Leipzig Hauptbahnhof;Kopfbahnhof;1915;821;73;21;120000;TRUE
+München Hauptbahnhof;Kopfbahnhof;1849;855;1018;34;413000;TRUE
+München Ost;Durchgangsbahnhof;1871;;;12;;TRUE
+Nürnberg Hauptbahnhof;Kreuzungsbahnhof;1844;470;426;23;210000;TRUE
+Stuttgart Hauptbahnhof;Kopfbahnhof;1922;590;;18;255000;TRUE
